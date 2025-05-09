@@ -1,4 +1,5 @@
 # Sales Analytics Dashboard Documentation
+**Note:** Please refer to the attached PDF document before exploring the dashboard — it outlines key business questions and insights derived from the analysis.
 
 ## Project Overview
 
